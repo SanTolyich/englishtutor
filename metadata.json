@@ -1,0 +1,7 @@
+{
+  "name": "OGE English Tutor",
+  "description": "Интерактивный тренажер для подготовки к устной и аудируемой частям ОГЭ по английскому языку с использованием ИИ.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
